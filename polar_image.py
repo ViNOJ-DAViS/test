@@ -22,6 +22,7 @@ class PTransform(PolarTransform):
         """
 
 class PolarImage(Image):
+    # Polar Image
     def __init__(self, source=None, **kwargs):
         super(PolarImage, self).__init__(**kwargs)
 
