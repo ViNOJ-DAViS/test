@@ -8,7 +8,7 @@ from vispy.scene.visuals import Image, ColorBar, Markers, Text
 use('pyqt4')  # can be another app backend name
 import pyart
 nwsref = pyart.graph.cm.NWSRef
-# WOW
+# WOW DEVEL2_COMMENT
 
 class PTransform(PolarTransform):
     """ GL PROGRAM """
